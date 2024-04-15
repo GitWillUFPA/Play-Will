@@ -1,7 +1,8 @@
 # Play-Will
 Repositório criado para atividades de Programação II
-Código C++
+Código em C++
 
+```bash
 #include <iostream>
 #include <string>
 
@@ -49,4 +50,3 @@ int main() {
 
     return 0;
 }
-
